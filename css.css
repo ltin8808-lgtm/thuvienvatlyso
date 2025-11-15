@@ -84,6 +84,12 @@
                 font-family: inherit;
                 padding-top: 40px;
             }
+            .search-box {
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                margin-top: 25px;
+            }
             .search-box input {
                 font-family: inherit;
                 padding: 6px 10px;
